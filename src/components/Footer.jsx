@@ -81,20 +81,20 @@ const Footer = () => {
                 className="flex items-center justify-center md:justify-end space-x-2 text-foreground hover:text-primary transition-colors"
               >
                 <Mail size={18} />
-                <span>aksarabatak@example.com</span>
+                <span>nazar555ava@gmail.com</span>
               </a>
               <a
                 href="tel:+6281234567890"
                 className="flex items-center justify-center md:justify-end space-x-2 text-foreground hover:text-primary transition-colors"
               >
                 <Phone size={18} />
-                <span>+62 812 3456 7890</span>
+                <span>+62 819 031 283 26</span>
               </a>
             </div>
 
             <div className="flex justify-center md:justify-end space-x-4">
               <a
-                href="https://twitter.com/aksarabatak"
+                href="https://x.com/NazarMa60101679"
                 aria-label="Follow us on Twitter"
                 className="p-2 rounded-full bg-background hover:bg-primary hover:text-primary-foreground transition-all duration-300"
                 target="_blank"
@@ -103,7 +103,7 @@ const Footer = () => {
                 <Twitter size={20} />
               </a>
               <a
-                href="https://www.linkedin.com/company/aksarabatak"
+                href="https://www.linkedin.com/in/muhammad-nazar-maulana-a62298319/"
                 aria-label="Connect with us on LinkedIn"
                 className="p-2 rounded-full bg-background hover:bg-primary hover:text-primary-foreground transition-all duration-300"
                 target="_blank"
@@ -112,7 +112,7 @@ const Footer = () => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://www.instagram.com/aksarabatak"
+                href="https://www.instagram.com/nazarmaull/"
                 aria-label="Follow us on Instagram"
                 className="p-2 rounded-full bg-background hover:bg-primary hover:text-primary-foreground transition-all duration-300"
                 target="_blank"
@@ -121,7 +121,7 @@ const Footer = () => {
                 <Instagram size={20} />
               </a>
               <a
-                href="https://github.com/aksarabatak"
+                href="https://github.com/Maulana-potter"
                 aria-label="View our projects on GitHub"
                 className="p-2 rounded-full bg-background hover:bg-primary hover:text-primary-foreground transition-all duration-300"
                 target="_blank"
