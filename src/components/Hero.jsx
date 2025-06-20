@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex flex-col-reverse lg:flex-row items-center px-6 md:px-20 bg-background overflow-hidden p-9">
+    <section className="relative min-h-screen flex flex-col-reverse lg:flex-row items-center px-6 md:px-20 bg-background overflow-hidden p-9 md:p-25">
       {/* Background circles */}
       <div className="absolute top-16 left-12 w-40 h-40 rounded-full bg-primary opacity-30 animate-pulse blur-3xl pointer-events-none"></div>
       <div className="absolute bottom-20 right-16 w-36 h-36 rounded-full bg-secondary opacity-20 animate-pulse blur-3xl pointer-events-none"></div>

@@ -1,5 +1,11 @@
-function Sejarah() {
-  return <h1>Sejarah Aksara Batak</h1>;
-}
+import React from "react";
 
-export default Sejarah;
+const SejarahPages = () => {
+  return (
+    <div>
+      <h1>Sejarah Aksara Batak</h1>
+    </div>
+  );
+};
+
+export default SejarahPages;
