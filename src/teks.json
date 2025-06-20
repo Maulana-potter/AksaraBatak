@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "kategori": "Salam Umum",
+    "aksara": "ᯂᯬᯒᯘ᯲",
+    "transliterasi": "Horas!",
+    "arti": "Salam / Halo / Selamat jalan"
+  },
+  {
+    "id": 2,
+    "kategori": "Salam Pembuka",
+    "aksara": "ᯂᯬᯒᯘ᯲ ᯅᯖᯂ᯲ ᯘᯓᯂ᯲",
+    "transliterasi": "Horas ma hita sude",
+    "arti": "Salam untuk kita semua"
+  },
+  {
+    "id": 3,
+    "kategori": "Ungkapan Harapan",
+    "aksara": "ᯃᯬᯒᯬ ᯅᯖᯂ᯲ ᯗᯬᯂ᯲",
+    "transliterasi": "Ma toba hita dongan",
+    "arti": "Semoga kita baik‑baik"
+  },
+  {
+    "id": 4,
+    "kategori": "Ucapan Terima Kasih Singkat",
+    "aksara": "ᯆᯖᯂᯒ᯲ᯖᯮᯘ",
+    "transliterasi": "Mauliate",
+    "arti": "Terima kasih"
+  },
+  {
+    "id": 5,
+    "kategori": "Ucapan Terima Kasih Panjang",
+    "aksara": "ᯂᯓᯂᯘ ᯅᯖᯂ᯲ ᯂᯓᯂᯉ᯲",
+    "transliterasi": "Nunga gabe tarimo",
+    "arti": "Terima kasih banyak"
+  },
+  {
+    "id": 6,
+    "kategori": "Ucapan Selamat Pagi",
+    "aksara": "ᯂᯬᯒᯘ᯲ ᯂᯖᯂ᯲ ᯔᯬᯒᯘ᯲",
+    "transliterasi": "Horas selamat pagi",
+    "arti": "Selamat pagi"
+  },
+  {
+    "id": 7,
+    "kategori": "Bersulang",
+    "aksara": "ᯂ᯦ᯔᯔᯬ᯲",
+    "transliterasi": "Lissoi!",
+    "arti": "Salam / Cheers"
+  },
+  {
+    "id": 8,
+    "kategori": "Tanya – Siapa nama?",
+    "aksara": "ᯅ᯶ ᯄᯖᯬ ᯇᯮᯒᯂ᯲ᯖᯮᯘ",
+    "transliterasi": "Ai ise do goarmu?",
+    "arti": "Siapa namamu?"
+  },
+  {
+    "id": 9,
+    "kategori": "Jawab – Namaku",
+    "aksara": "ᯆᯔ ᯇᯬᯅᯖᯮ …",
+    "transliterasi": "Ia goarhu …",
+    "arti": "Namaku …"
+  },
+  {
+    "id": 10,
+    "kategori": "Tanya – Berapa harga?",
+    "aksara": "ᯔᯖᯔᯬ ᯅᯬᯂᯮᯅᯬ",
+    "transliterasi": "Sadia argona?",
+    "arti": "Berapa harganya?"
+  },
+  {
+    "id": 11,
+    "kategori": "Jawab Negatif",
+    "aksara": "ᯄᯬᯂ᯲",
+    "transliterasi": "Daong",
+    "arti": "Tidak"
+  },
+  {
+    "id": 12,
+    "kategori": "Jawab Positif",
+    "aksara": "ᯑᯬᯂ᯲",
+    "transliterasi": "Olo",
+    "arti": "Ya"
+  },
+  {
+    "id": 13,
+    "kategori": "Tanya – Apa kabar?",
+    "aksara": "ᯂᯓᯂᯉ ᯔᯬᯂ᯲?",
+    "transliterasi": "Nungga songondia?",
+    "arti": "Apa kabar?"
+  },
+  {
+    "id": 14,
+    "kategori": "Perkenalan – Senang bertemu",
+    "aksara": "ᯘᯮᯒᯖ᯲ ᯂᯓᯂᯉᯬᯂᯓᯂᯒ᯲",
+    "transliterasi": "Pleased to meet you",
+    "arti": "Senang bertemu denganmu"
+  },
+  {
+    "id": 15,
+    "kategori": "Permintaan – Tolong bicara pelan",
+    "aksara": "ᯘᯮ…",
+    "transliterasi": "Please speak more slowly",
+    "arti": "Tolong bicara lebih pelan"
+  },
+  {
+    "id": 16,
+    "kategori": "Ucapan Selamat Ulang Tahun",
+    "aksara": "ᯂᯬᯒᯘ᯲ ᯅᯒᯬᯂ᯲ ᯃᯒᯞᯂ᯲",
+    "transliterasi": "Horas ro ulang taon",
+    "arti": "Selamat ulang tahun"
+  },
+  {
+    "id": 17,
+    "kategori": "Permintaan Maaf",
+    "aksara": "ᯘᯮᯒᯂ᯲ᯒᯮᯅᯉ᯲",
+    "transliterasi": "Patik maaf",
+    "arti": "Mohon maaf"
+  },
+  {
+    "id": 18,
+    "kategori": "Ucapan Selamat Malam",
+    "aksara": "ᯂᯬᯒᯘ᯲ ᯘᯓᯂ᯲ ᯉᯘᯒ᯲",
+    "transliterasi": "Horas ma hita malam",
+    "arti": "Selamat malam"
+  },
+  {
+    "id": 19,
+    "kategori": "Ucapan Semoga Sehat",
+    "aksara": "ᯔᯬᯒᯘ᯲ ᯅᯖᯂ᯲ ᯗᯬᯒᯘ᯲",
+    "transliterasi": "Sahat ma hita sude",
+    "arti": "Semoga kita semua sehat"
+  },
+  {
+    "id": 20,
+    "kategori": "Ucapan Perpisahan",
+    "aksara": "ᯂᯬᯒᯘ᯲ ᯖᯖᯂ᯲",
+    "transliterasi": "Horas tudos ma",
+    "arti": "Sampai jumpa / Selamat tinggal"
+  },
+  {
+    "id": 21,
+    "kategori": "Kalimat Dorongan",
+    "aksara": "ᯘᯮᯂᯉ᯲ ᯔᯖᯒ᯲",
+    "transliterasi": "Jala marsangap",
+    "arti": "Semangat terus!"
+  },
+  {
+    "id": 22,
+    "kategori": "Doa Restu",
+    "aksara": "ᯆᯖᯉᯂ᯲ ᯅᯒᯘ᯲",
+    "transliterasi": "Mangalului ho",
+    "arti": "Semoga engkau diberkati"
+  },
+  {
+    "id": 23,
+    "kategori": "Permohonan Bantuan",
+    "aksara": "ᯘᯮᯅᯖᯂ᯲ ᯉᯘᯒ᯲",
+    "transliterasi": "Pangidoan tulung",
+    "arti": "Mohon bantuan"
+  },
+  {
+    "id": 24,
+    "kategori": "Ucapan Cepat Sembuh",
+    "aksara": "ᯔᯬᯒᯘ᯲ ᯘᯮᯉᯖᯂ᯲",
+    "transliterasi": "Sahat ma jolo",
+    "arti": "Cepat sembuh ya"
+  },
+  {
+    "id": 25,
+    "kategori": "Kalimat Motivasi",
+    "aksara": "ᯔᯬᯒᯘ᯲ ᯖᯖᯂ᯲ ᯉᯘᯒ᯲",
+    "transliterasi": "Sude ma dapot",
+    "arti": "Semua bisa diraih"
+  },
+  {
+    "id": 26,
+    "kategori": "Salam Karo",
+    "aksara": "ᯎᯂᯎᯂ᯲",
+    "transliterasi": "Mejuah-juah!",
+    "arti": "Halo (Karo Batak)"
+  },
+  {
+    "id": 27,
+    "kategori": "Perpisahan Karo",
+    "aksara": "ᯎᯂᯂᯂ᯲",
+    "transliterasi": "Njuah-juah!",
+    "arti": "Sampai jumpa (Karo)"
+  },
+  {
+    "id": 28,
+    "kategori": "Kalimat Umum – Long time no see",
+    "aksara": "",
+    "transliterasi": "Long time no see",
+    "arti": "Sudah lama tidak bertemu"
+  },
+  {
+    "id": 29,
+    "kategori": "Doa Restu – Semoga sehat!",
+    "aksara": "ᯂᯬᯒᯘ᯲ ᯂᯖᯂ᯲ ᯔᯬᯒᯘ᯲",
+    "transliterasi": "Good health!",
+    "arti": "Semoga sehat!"
+  },
+  {
+    "id": 30,
+    "kategori": "Ekspresi Overjoy – Cheers!",
+    "aksara": "ᯂ᯦ᯔᯔᯬ᯲",
+    "transliterasi": "Good luck!",
+    "arti": "Semoga berhasil / Cheers!"
+  },
+  {
+    "id": 31,
+    "kategori": "Sapaan Karo – Welcome",
+    "aksara": "ᯎᯂᯎᯂ᯲",
+    "transliterasi": "Mejuah‑juah!",
+    "arti": "Selamat datang (Karo)"
+  },
+  {
+    "id": 32,
+    "kategori": "Pernyataan – Long time no see",
+    "aksara": "",
+    "transliterasi": "Long time no see",
+    "arti": "Sudah lama tidak bertemu"
+  },
+  {
+    "id": 33,
+    "kategori": "Semoga – Good health",
+    "aksara": "",
+    "transliterasi": "Good health!",
+    "arti": "Semoga sehat!"
+  },
+  {
+    "id": 34,
+    "kategori": "Dukungan – Good luck",
+    "aksara": "ᯂ᯦ᯔᯔᯬ᯲",
+    "transliterasi": "Cheers! / Good luck!",
+    "arti": "Semoga berhasil!"
+  },
+  {
+    "id": 35,
+    "kategori": "Permintaan – Tolong tulis lagi",
+    "aksara": "",
+    "transliterasi": "Please say that again",
+    "arti": "Tolong ulangi itu"
+  },
+  {
+    "id": 36,
+    "kategori": "Permintaan – Tolong tulis",
+    "aksara": "",
+    "transliterasi": "Please write it down",
+    "arti": "Tolong tuliskan itu"
+  },
+  {
+    "id": 37,
+    "kategori": "Tanya – Do you speak English?",
+    "aksara": "",
+    "transliterasi": "Do you speak English?",
+    "arti": "Apakah Anda bisa berbahasa Inggris?"
+  },
+  {
+    "id": 38,
+    "kategori": "Tanya – Do you speak Toba Batak?",
+    "aksara": "",
+    "transliterasi": "Do you speak Toba Batak?",
+    "arti": "Apakah Anda bisa berbahasa Batak Toba?"
+  },
+  {
+    "id": 39,
+    "kategori": "Balasan – Yes, a little",
+    "aksara": "",
+    "transliterasi": "Yes, a little",
+    "arti": "Ya, sedikit"
+  },
+  {
+    "id": 40,
+    "kategori": "Permintaan – Speak to me in Batak",
+    "aksara": "",
+    "transliterasi": "Speak to me in Toba Batak",
+    "arti": "Bicaralah padaku dalam Batak Toba"
+  },
+  {
+    "id": 41,
+    "kategori": "Pertanyaan – Dimana toilet?",
+    "aksara": "",
+    "transliterasi": "Where's the toilet?",
+    "arti": "Di mana toilet?"
+  },
+  {
+    "id": 42,
+    "kategori": "Permintaan – Tolong bantu saya",
+    "aksara": "",
+    "transliterasi": "Help!",
+    "arti": "Tolong bantu saya!"
+  },
+  {
+    "id": 43,
+    "kategori": "Keadaan Darurat – Kebakaran",
+    "aksara": "",
+    "transliterasi": "Fire!",
+    "arti": "Kebakaran!"
+  },
+  {
+    "id": 44,
+    "kategori": "Perintah – Hentikan!",
+    "aksara": "",
+    "transliterasi": "Stop!",
+    "arti": "Berhenti!"
+  },
+  {
+    "id": 45,
+    "kategori": "Permintaan – Panggil polisi!",
+    "aksara": "",
+    "transliterasi": "Call the police!",
+    "arti": "Panggil polisi!"
+  },
+  {
+    "id": 46,
+    "kategori": "Ungkapan Rindu",
+    "aksara": "",
+    "transliterasi": "I miss you",
+    "arti": "Aku rindu kamu"
+  },
+  {
+    "id": 47,
+    "kategori": "Ungkapan Cinta",
+    "aksara": "",
+    "transliterasi": "I love you",
+    "arti": "Aku cinta kamu"
+  },
+  {
+    "id": 48,
+    "kategori": "Ucapan Selamat Natal",
+    "aksara": "",
+    "transliterasi": "Merry Christmas",
+    "arti": "Selamat Natal"
+  },
+  {
+    "id": 49,
+    "kategori": "Ucapan Tahun Baru",
+    "aksara": "",
+    "transliterasi": "Happy New Year",
+    "arti": "Selamat Tahun Baru"
+  },
+  {
+    "id": 50,
+    "kategori": "Ucapan Selamat Paskah",
+    "aksara": "",
+    "transliterasi": "Happy Easter",
+    "arti": "Selamat Paskah"
+  }
+]
