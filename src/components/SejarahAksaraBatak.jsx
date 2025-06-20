@@ -57,7 +57,7 @@ const SejarahAksaraBatak = () => {
       <div className="relative container mx-auto px-6 md:px-16 z-10">
         {/* Header Section */}
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">
             Sejarah & Asal‑Usul{" "}
             <span className="text-primary">Aksara Batak</span>
           </h2>
@@ -77,7 +77,7 @@ const SejarahAksaraBatak = () => {
                 <div className="absolute left-0 flex items-center justify-center w-14 h-14 rounded-full bg-primary border-2 border-primary text-primary group-hover:bg-primary text-white transition-all duration-300">
                   {item.icon}
                 </div>
-                <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 group-hover:shadow-xl transition-all">
+                <div className="bg-white p-6 rounded-xl shadow-lg border border-gray-200 group-hover:shadow-xl transition-all">
                   <span className="inline-block px-3 py-1 text-xs font-semibold bg-primary/10 text-primary rounded-full mb-2">
                     {item.year}
                   </span>
@@ -92,7 +92,7 @@ const SejarahAksaraBatak = () => {
 
           {/* Deskripsi Teks */}
           <div className="space-y-6">
-            <div className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-md border border-gray-200 dark:border-gray-700">
+            <div className="bg-white p-8 rounded-xl shadow-md border border-gray-200">
               <p className="text-lg text-muted-foreground mb-4 leading-relaxed">
                 Aksara Batak (Surat Batak atau Surat na Sampulu Sia) merupakan
                 bagian dari rumpun abugida Nusantara dengan jejak historis
