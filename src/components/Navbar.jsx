@@ -8,7 +8,6 @@ const navItems = [
   { name: "Panduan", href: "/panduan" },
   { name: "Teks", href: "/teks" },
   { name: "Sejarah", href: "/sejarah" },
-  { name: "Tentang", href: "/tentang" },
 ];
 
 const Navbar = () => {

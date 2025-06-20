@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Batak&display=swap");
 
 @theme {
   --color-border: hsl(var(--border));
@@ -65,15 +64,15 @@
 
 @layer base {
   :root {
-    --background: 37 41% 95%; /* Beige lembut */
-    --foreground: 30 15% 15%; /* Coklat gelap */
+    --background: 0 0% 98%; /* Putih netral */
+    --foreground: 0 0% 10%; /* Hitam keabu-abuan, elegan */
 
-    --card: 36 34% 88%; /* Krem alami */
+    --card: 0 0% 100%; /* Putih bersih */
 
-    --primary: 28 78% 52%; /* Oranye keemasan */
-    --primary-foreground: 36 34% 88%; /* Krem terang */
+    --primary: 355 70% 45%; /* Merah Batak (merah tua khas ulos) */
+    --primary-foreground: 0 0% 100%; /* Putih */
 
-    --border: 30 12% 60%; /* Coklat muda */
+    --border: 0 0% 80%; /* Abu terang */
   }
 
   * {
@@ -151,8 +150,4 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-.clip-halfcircle-left {
-  clip-path: polygon(30% 0%, 100% 0%, 100% 100%, 30% 100%, 0% 50%);
 }
