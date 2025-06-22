@@ -44,17 +44,6 @@ const PageHeader = ({ judul, deskripsi, halamanSaatIni }) => {
           {/* Tambahkan mx-auto */}
           {deskripsi}
         </p>
-        {/* CTA Buttons */}
-        <div className="flex gap-4 justify-center">
-          {" "}
-          {/* Tambahkan justify-center */}
-          <a
-            href="/sejarah"
-            className="px-6 py-3 bg-primary text-white rounded-xl card-hover"
-          >
-            Lihat Sejarah
-          </a>
-        </div>
       </div>
 
       {/* Decorative Elements */}

@@ -1,12 +1,25 @@
-# React + Vite
+📣 Pemberitahuan
+Selamat datang di aplikasi Aksara Batak — sebuah media interaktif untuk mempelajari dan melestarikan aksara tradisional Batak yang kaya sejarah dan budaya.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi ini dikembangkan oleh Nazar Maulana sebagai bagian dari proyek edukatif berbasis React. Proyek ini dibuat dengan semangat untuk mengenalkan kembali warisan aksara Nusantara kepada generasi muda, khususnya melalui pendekatan teknologi modern.
 
-Currently, two official plugins are available:
+🎯 Tujuan Aplikasi
+Mengenalkan bentuk dan sejarah Aksara Batak.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Menjelaskan struktur dan tata bahasa aksara secara ringkas dan mudah dipahami.
 
-## Expanding the ESLint configuration
+Menyediakan latihan soal dan kuis interaktif.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Menampilkan frasa umum dalam Aksara Batak dan terjemahannya.
+
+⚙️ Teknologi yang Digunakan
+React + Vite: Untuk pengembangan web yang ringan dan cepat.
+
+Tailwind CSS: Untuk tampilan yang rapi dan responsif.
+
+Lucide Icons: Untuk ikon modern dan ringan.
+
+JSON: Sebagai sumber data dinamis untuk frasa dan kuis.
+
+ℹ️ Catatan
+Aplikasi ini masih dalam tahap pengembangan, dan akan terus diperbarui untuk menghadirkan fitur baru seperti pengenalan audio, transliterasi otomatis, dan kuis lanjutan.
